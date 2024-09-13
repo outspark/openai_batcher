@@ -37,6 +37,8 @@ streamlit run streamlit_gpt_ui.py
 
 웹 브라우저에서 앱 실행
 
+![gpt batcher](img/img.png)
+
 ### 앱 사용 방법
 
 1. **CSV 파일 업로드**
